@@ -1,2 +1,2 @@
 # Wiki_parse
-Scripts for parsing wiki
+This repository include Scripts for parsing wiki articles
